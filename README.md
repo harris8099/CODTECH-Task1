@@ -1,3 +1,11 @@
+Name: HARSHIL SUTHAR<br />
+Company: CODTECH IT SOLUTIONS<br />
+ID: CT08DS2358<br />
+Domain: VLSI<br />
+Duration: (4 Weeks) JUNE 15th,2024 to JULY 15th, 2024<br />
+Mentor: NEELA SANTHOSH KUMAR<br />
+
+# Overview of the Project
 
 # TASK ONE: DIGITAL LOGIC DESIGN WITH VERILOG
 
